@@ -27,7 +27,7 @@ This site is designed to be fast, responsive, and user-friendly.
 ---
 
 ## 📸 Screenshots
-![App Screenshot](./assets/ss.png)
+![App Screenshot](assets/ss.png)
 
 
 ---
