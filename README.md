@@ -22,12 +22,13 @@ This site is designed to be fast, responsive, and user-friendly.
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://your-portfolio-link.com)  
+🔗 [View Portfolio](https://portfolio-coral-pi-27.vercel.app/)  
 
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your portfolio UI here if you like)
+![App Screenshot](./assets/ss.png)
+
 
 ---
 
