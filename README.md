@@ -27,7 +27,7 @@ This site is designed to be fast, responsive, and user-friendly.
 ---
 
 ## 📸 Screenshots
-![App Screenshot](assets/ss.png)
+![App Screenshot](https://github.com/Sumit8617/Portfolio/blob/main/src/assets/ss.png?raw=true)
 
 
 ---
